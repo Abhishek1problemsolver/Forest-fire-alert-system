@@ -4,7 +4,7 @@
 // Pin Definitions
 #define PIN_TX 11
 #define PIN_RX 10
-#define PHONE_NUMBER "+916009213177" // Replace with your phone number
+#define PHONE_NUMBER "xxxxxxxxxx" // Replace with your phone number
 #define FLAME_SENSOR_PIN 2          // Pin connected to the flame sensor
 #define DHT_PIN A1                  // Pin connected to the DHT sensor
 #define DHT_TYPE DHT11              // DHT11 sensor type
